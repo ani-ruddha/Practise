@@ -10,4 +10,10 @@ public class TC_02Test {
 		System.out.println("Raja Rani ready!!");
 		
 	}
+	
+	@Test
+	public void m1()
+	{
+		System.out.println("m1 is running!!");
+	}
 }
